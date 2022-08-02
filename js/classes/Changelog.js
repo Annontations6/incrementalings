@@ -4,7 +4,7 @@ class Changelog {
     
     this.template = `
       <h1 id="changelogTitle"></h1>
-      <diV id="changelogContent"></div>
+      <div id="changelogContent"></div>
     `
     
     document.getElementById(id).innerHTML = this.template
