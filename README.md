@@ -9,3 +9,4 @@ Hover That Code Everyone!
 - `css/types.css`: At types from layouts. this style.
 - `css/general.css`: At be general main of css.
 - `js/mod.js`: A Mod These script html5.
+- `js/main.js`: At Main the Java Script.
