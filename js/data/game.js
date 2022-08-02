@@ -10,3 +10,7 @@ var game = {
   }],
   changelog:new Changelog("changelog", "Changelog", changelog)
 }
+
+document.getElementById("click").onclick = () => {
+  game.layers[0].startData.resource = game.layers[0].startData.resource.add(1)
+}
