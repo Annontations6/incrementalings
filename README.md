@@ -6,3 +6,4 @@ Hover That Code Everyone!
 - `.gitignore`: I takes be gitignore github.
 - `LICENSE`: I takes be license of but of now.
 - `index.html`: The Main The HTML5 browser.
+- `css/types.css`: At types from layouts. this style.
