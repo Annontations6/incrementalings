@@ -1,0 +1,35 @@
+span[type="display-text"] {
+   margin:9px;
+}
+
+span[type="display-image"] {
+   margin:11px;
+}
+
+span[type="upgrades"] {
+   margin:9px;
+}
+
+span[type="buyables"] {
+   margin:9px;
+}
+
+span[type="clickables"] {
+   margin:9px;
+}
+
+span[type="achievements"] {
+   margin:9px;
+}
+
+span[type="milestones"] {
+   margin:14px;
+}
+
+span[type="main-display"] {
+   margin:11px;
+}
+
+span[type="click-button"] {
+   margin:1.1vh;
+}
