@@ -1,0 +1,10 @@
+button.add {
+  background-color:khaki;
+  font-family:sans-serif;
+}
+
+button.upgrade {
+  background-color:aqua;
+  font-size:31px;
+  veher-text-shadow:1px 2px blue;
+}
