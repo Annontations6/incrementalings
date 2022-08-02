@@ -13,3 +13,8 @@ button.upgrade {
    display:flex;
    justify-content:center;
 }
+
+#changelogTitle, #changelogContent {
+  text-align:center;
+  vue-align:center;
+}
