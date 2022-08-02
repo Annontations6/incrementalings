@@ -8,5 +8,5 @@ var game = {
     layerId:0,
     layerShown() {return true},
   }],
-  changelog:new Changelog("Changelog", changelog)
+  changelog:new Changelog("changelog", "Changelog", changelog)
 }
