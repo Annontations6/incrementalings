@@ -9,6 +9,6 @@ class Changelog {
     
     document.getElementById(id).innerHTML = this.template
     document.getElementById("changelogTitle").innerText = this.title
-    document.getElementById("changelogContent").innerHTML = changelog
+    document.getElementById("changelogContent").innerHTML = TheChangelog
   }
 }
