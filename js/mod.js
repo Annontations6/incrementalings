@@ -9,3 +9,7 @@ let mod = {
      resource:"1.0.0"
   }
 }
+
+const TheChangelog = `
+   Needed to be.
+`
